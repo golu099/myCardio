@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "179142105511",
+    "project_id": "mycardio-34acd",
+    "storage_bucket": "mycardio-34acd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179142105511:android:0fc47cba0295ec25547e82",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179142105511-tu83t72cb40ukiepg5fcfg9v35otva1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqX4AZ1UCBjiim_PqZAz6kIN8qWfsTsA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179142105511-tu83t72cb40ukiepg5fcfg9v35otva1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "179142105511-gqpvg9st3pdaiud1mo6h6rej0njmrkb8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.healthai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
